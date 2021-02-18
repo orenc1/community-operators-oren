@@ -1,0 +1,4 @@
+channels:
+- currentCSV: vaultoperator.v0.4.10
+  name: beta
+packageName: vault
